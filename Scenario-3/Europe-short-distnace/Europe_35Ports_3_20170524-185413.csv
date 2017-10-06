@@ -1,0 +1,36 @@
+35
+M,TO,ti,di,ci,tip,xi,speed
+Port of Bremerhaven,Port of Rotterdam,16.0,256.0,259,6,5,16.0
+Port of Rotterdam,Port of Immingham,13.0,208.0,194,6,0,16.0
+Port of Immingham,Port of Valletta,156.0,2496.0,315,5,21,16.0
+Port of Valletta,Port of Piraeus,34.0,544.0,265,3,6,16.0
+Port of Piraeus,Port of Brest,157.0,2512.0,366,8,14,16.0
+Port of Brest,Port of Barcelona,94.0,1504.0,295,8,25,16.0
+Port of Barcelona,Port of Livorno,25.0,400.0,164,1,4,16.0
+Port of Livorno,Port of Baku,189.0,3024.0,304,9,44,16.0
+Port of Baku,Port of Nikolaev,107.0,1712.0,148,4,35,16.0
+Port of Nikolaev,Port of Sevastopol,12.0,192.0,164,7,1,16.0
+Port of Sevastopol,Port of Venice,96.0,1536.0,308,5,20,16.0
+Port of Venice,Port of Marseille,84.0,1344.0,206,5,28,16.0
+Port of Marseille,Port of Genoa,14.0,224.0,203,6,1,16.0
+Port of Genoa,Port of Napoli,23.0,368.0,249,3,4,16.0
+Port of Napoli,Port of Lubeck,173.0,2768.0,273,5,20,16.0
+Port of Lubeck,Port of Brussels,31.0,496.0,239,7,1,16.0
+Port of Brussels,Felixstowe Port,9.0,144.0,268,7,2,16.0
+Felixstowe Port,Port of Amsterdam,9.0,144.0,187,3,0,16.0
+Port of Amsterdam,Port of Duisburg,7.0,112.0,251,4,2,16.0
+Port of Duisburg,Port of Le Havre,23.0,368.0,325,2,7,16.0
+Port of Le Havre,The Port of Ghent,14.0,224.0,291,5,0,16.0
+The Port of Ghent,Scapa Flow,34.0,544.0,212,5,7,16.0
+Scapa Flow,Port of Southampton,57.0,912.0,291,8,18,16.0
+Port of Southampton,Port of Copenhagen,50.0,800.0,295,5,15,16.0
+Port of Copenhagen,Freeport of Riga,29.0,464.0,271,4,8,16.0
+Freeport of Riga,Port of Helsinki,13.0,208.0,261,6,3,16.0
+Port of Helsinki,Klaipeda State Seaport,21.0,336.0,342,5,1,16.0
+Klaipeda State Seaport,Port of Hamburg,31.0,496.0,241,2,8,16.0
+Port of Hamburg,Port of London,27.0,432.0,251,4,2,16.0
+Port of London,Port of Leith,26.0,416.0,253,9,9,16.0
+Port of Leith,Port of Antwerp,27.0,432.0,248,3,0,16.0
+Port of Antwerp,Copenhagen Malmo Port,42.0,672.0,250,9,14,16.0
+Copenhagen Malmo Port,Port of Gdansk,20.0,320.0,142,3,2,16.0
+Port of Gdansk,Port of Bremerhaven,27.0,432.0,214,5,6,16.0

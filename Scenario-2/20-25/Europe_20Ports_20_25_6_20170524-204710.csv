@@ -1,0 +1,21 @@
+20
+M,TO,ti,di,ci,tip,xi,speed
+Port of Antwerp,Port of Bremerhaven,19.0,304.0,307,9,1,16.0
+Port of Bremerhaven,Port of Gdynia,27.0,432.0,281,1,3,16.0
+Port of Gdynia,Port of Helsinki,26.0,416.0,182,6,1,16.0
+Port of Helsinki,Klaipeda State Seaport,21.0,336.0,224,9,3,16.0
+Klaipeda State Seaport,Port of Hamburg,31.0,496.0,292,9,0,16.0
+Port of Hamburg,Port of Immingham,24.0,384.0,399,5,3,16.0
+Port of Immingham,Port of Leith,14.0,224.0,259,4,0,16.0
+Port of Leith,Port of Copenhagen,40.0,640.0,257,9,6,16.0
+Port of Copenhagen,Copenhagen Malmo Port,0.0,0.0,336,4,0,16.0
+Copenhagen Malmo Port,Port of Piraeus,219.0,3504.0,82,9,18,16.0
+Port of Piraeus,Port of Sevastopol,47.0,752.0,258,9,6,16.0
+Port of Sevastopol,Port of Nikolaev,12.0,192.0,252,2,0,16.0
+Port of Nikolaev,Porto Marghera,101.0,1616.0,260,7,6,16.0
+Porto Marghera,Port of Marseille,84.0,1344.0,264,2,4,16.0
+Port of Marseille,Port of Genoa,14.0,224.0,232,1,0,16.0
+Port of Genoa,Port of Livorno,5.0,80.0,263,2,0,16.0
+Port of Livorno,Port of Le Havre,132.0,2112.0,281,2,4,16.0
+Port of Le Havre,Port of Rotterdam,15.0,240.0,194,5,1,16.0
+Port of Rotterdam,Port of Antwerp,6.0,96.0,177,7,0,16.0

@@ -1,0 +1,26 @@
+25
+M,TO,ti,di,ci,tip,xi,speed
+Port of Gdansk,Port of Helsinki,26.0,416.0,240,6,3,16.0
+Port of Helsinki,Port of Southampton,73.0,1168.0,308,5,5,16.0
+Port of Southampton,Klaipeda State Seaport,58.0,928.0,255,4,7,16.0
+Klaipeda State Seaport,Copenhagen Malmo Port,20.0,320.0,302,2,1,16.0
+Copenhagen Malmo Port,Port of Lubeck,9.0,144.0,217,1,0,16.0
+Port of Lubeck,Port of Brest,52.0,832.0,193,3,6,16.0
+Port of Brest,Port of Genoa,115.0,1840.0,241,3,7,16.0
+Port of Genoa,Port of Marseille,14.0,224.0,266,6,2,16.0
+Port of Marseille,Port of La Spezia,16.0,256.0,223,8,1,16.0
+Port of La Spezia,Port of Napoli,27.0,432.0,246,9,0,16.0
+Port of Napoli,Port of Piraeus,44.0,704.0,296,4,1,16.0
+Port of Piraeus,Port of Baku,133.0,2128.0,289,8,8,16.0
+Port of Baku,Port of Sevastopol,95.0,1520.0,222,2,7,16.0
+Port of Sevastopol,Port of Venice,96.0,1536.0,360,4,10,16.0
+Port of Venice,Felixstowe Port,192.0,3072.0,237,8,16,16.0
+Felixstowe Port,Scapa Flow,30.0,480.0,289,8,1,16.0
+Scapa Flow,Port of Copenhagen,48.0,768.0,217,6,1,16.0
+Port of Copenhagen,Port of Duisburg,43.0,688.0,238,7,3,16.0
+Port of Duisburg,Port of Immingham,22.0,352.0,291,8,2,16.0
+Port of Immingham,Port of Leith,14.0,224.0,211,2,0,16.0
+Port of Leith,Port of Le Havre,32.0,512.0,238,6,4,16.0
+Port of Le Havre,Port of Amsterdam,17.0,272.0,222,8,1,16.0
+Port of Amsterdam,The Port of Ghent,7.0,112.0,263,2,0,16.0
+The Port of Ghent,Port of Gdansk,45.0,720.0,264,5,2,16.0

@@ -1,0 +1,26 @@
+25
+M,TO,ti,di,ci,tip,xi,speed
+Port of London,Port of Immingham,14.0,224.0,279,6,1,16.0
+Port of Immingham,Klaipeda State Seaport,50.0,800.0,254,6,2,16.0
+Klaipeda State Seaport,Port of Gdansk,7.0,112.0,338,6,0,16.0
+Port of Gdansk,Copenhagen Malmo Port,20.0,320.0,191,8,0,16.0
+Copenhagen Malmo Port,Freeport of Riga,35.0,560.0,211,7,0,16.0
+Freeport of Riga,Port of Helsinki,13.0,208.0,208,4,0,16.0
+Port of Helsinki,Port of Amsterdam,57.0,912.0,243,2,1,16.0
+Port of Amsterdam,Felixstowe Port,9.0,144.0,248,6,0,16.0
+Felixstowe Port,Port of Le Havre,11.0,176.0,251,3,0,16.0
+Port of Le Havre,Port of Hamburg,32.0,512.0,262,2,2,16.0
+Port of Hamburg,Port of Rotterdam,19.0,304.0,269,1,0,16.0
+Port of Rotterdam,Port of Brussels,8.0,128.0,237,6,0,16.0
+Port of Brussels,Port of Antwerp,1.0,16.0,273,9,0,16.0
+Port of Antwerp,Port of Copenhagen,33.0,528.0,305,2,1,16.0
+Port of Copenhagen,Scapa Flow,48.0,768.0,225,3,3,16.0
+Scapa Flow,Port of Genoa,167.0,2672.0,325,5,7,16.0
+Port of Genoa,Port of Marseille,14.0,224.0,229,2,0,16.0
+Port of Marseille,Porto Marghera,84.0,1344.0,234,4,4,16.0
+Porto Marghera,Port of Venice,1.0,16.0,241,7,0,16.0
+Port of Venice,Port of Livorno,68.0,1088.0,212,8,0,16.0
+Port of Livorno,Port of Valletta,37.0,592.0,234,9,2,16.0
+Port of Valletta,Port of Piraeus,34.0,544.0,257,4,1,16.0
+Port of Piraeus,Port of Sevastopol,47.0,752.0,250,6,0,16.0
+Port of Sevastopol,Port of London,227.0,3632.0,197,8,20,16.0

@@ -1,0 +1,11 @@
+10
+M,TO,ti,di,ci,tip,xi,speed
+Port of Marseille,Port of Baku,202.0,3232.0,380,3,1,16.0
+Port of Baku,Port of Sevastopol,95.0,1520.0,256,1,12,16.0
+Port of Sevastopol,Port of Venice,96.0,1536.0,244,8,25,16.0
+Port of Venice,Port of Napoli,53.0,848.0,270,2,12,16.0
+Port of Napoli,Port of Le Havre,138.0,2208.0,227,2,27,16.0
+Port of Le Havre,Port of Copenhagen,50.0,800.0,270,2,1,16.0
+Port of Copenhagen,Klaipeda State Seaport,20.0,320.0,294,6,4,16.0
+Klaipeda State Seaport,Port of Bremerhaven,31.0,496.0,238,8,1,16.0
+Port of Bremerhaven,Port of Marseille,144.0,2304.0,206,1,33,16.0

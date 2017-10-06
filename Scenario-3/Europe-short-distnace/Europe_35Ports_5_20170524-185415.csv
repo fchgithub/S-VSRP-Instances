@@ -1,0 +1,36 @@
+35
+M,TO,ti,di,ci,tip,xi,speed
+Port of Bremerhaven,Port of Rotterdam,16.0,256.0,187,5,2,16.0
+Port of Rotterdam,Port of Immingham,13.0,208.0,305,3,4,16.0
+Port of Immingham,Port of Valletta,156.0,2496.0,162,6,46,16.0
+Port of Valletta,Port of Piraeus,34.0,544.0,170,1,9,16.0
+Port of Piraeus,Port of Brest,157.0,2512.0,174,8,24,16.0
+Port of Brest,Port of Barcelona,94.0,1504.0,263,8,32,16.0
+Port of Barcelona,Port of Livorno,25.0,400.0,285,5,5,16.0
+Port of Livorno,Port of Baku,189.0,3024.0,323,9,34,16.0
+Port of Baku,Port of Nikolaev,107.0,1712.0,183,2,13,16.0
+Port of Nikolaev,Port of Sevastopol,12.0,192.0,138,3,2,16.0
+Port of Sevastopol,Port of Venice,96.0,1536.0,281,2,21,16.0
+Port of Venice,Port of Marseille,84.0,1344.0,178,8,4,16.0
+Port of Marseille,Port of Genoa,14.0,224.0,265,3,4,16.0
+Port of Genoa,Port of Napoli,23.0,368.0,221,1,2,16.0
+Port of Napoli,Port of Lubeck,173.0,2768.0,322,4,59,16.0
+Port of Lubeck,Port of Brussels,31.0,496.0,364,7,7,16.0
+Port of Brussels,Felixstowe Port,9.0,144.0,182,4,2,16.0
+Felixstowe Port,Port of Amsterdam,9.0,144.0,278,3,0,16.0
+Port of Amsterdam,Port of Duisburg,7.0,112.0,210,7,1,16.0
+Port of Duisburg,Port of Le Havre,23.0,368.0,215,9,1,16.0
+Port of Le Havre,The Port of Ghent,14.0,224.0,245,8,4,16.0
+The Port of Ghent,Scapa Flow,34.0,544.0,257,5,5,16.0
+Scapa Flow,Port of Southampton,57.0,912.0,294,4,19,16.0
+Port of Southampton,Port of Copenhagen,50.0,800.0,265,7,14,16.0
+Port of Copenhagen,Freeport of Riga,29.0,464.0,315,5,7,16.0
+Freeport of Riga,Port of Helsinki,13.0,208.0,197,7,2,16.0
+Port of Helsinki,Klaipeda State Seaport,21.0,336.0,237,5,5,16.0
+Klaipeda State Seaport,Port of Hamburg,31.0,496.0,289,6,3,16.0
+Port of Hamburg,Port of London,27.0,432.0,323,6,4,16.0
+Port of London,Port of Leith,26.0,416.0,176,8,6,16.0
+Port of Leith,Port of Antwerp,27.0,432.0,314,5,5,16.0
+Port of Antwerp,Copenhagen Malmo Port,42.0,672.0,290,6,3,16.0
+Copenhagen Malmo Port,Port of Gdansk,20.0,320.0,315,6,1,16.0
+Port of Gdansk,Port of Bremerhaven,27.0,432.0,236,7,4,16.0

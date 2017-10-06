@@ -1,0 +1,31 @@
+30
+M,TO,ti,di,ci,tip,xi,speed
+Port of Duisburg,Freeport of Riga,59.0,944.0,299,4,6,16.0
+Freeport of Riga,Port of Gdynia,20.0,320.0,215,1,1,16.0
+Port of Gdynia,Port of Lubeck,21.0,336.0,241,9,0,16.0
+Port of Lubeck,Port of Rotterdam,25.0,400.0,213,5,7,16.0
+Port of Rotterdam,Port of Helsinki,60.0,960.0,173,3,21,16.0
+Port of Helsinki,Klaipeda State Seaport,21.0,336.0,314,1,6,16.0
+Klaipeda State Seaport,Port of Copenhagen,20.0,320.0,268,6,4,16.0
+Port of Copenhagen,Port of Antwerp,33.0,528.0,267,4,8,16.0
+Port of Antwerp,Port of Southampton,15.0,240.0,284,4,1,16.0
+Port of Southampton,Port of Le Havre,10.0,160.0,234,5,2,16.0
+Port of Le Havre,Port of Brussels,17.0,272.0,168,1,2,16.0
+Port of Brussels,Port of London,13.0,208.0,160,1,2,16.0
+Port of London,Port of Immingham,14.0,224.0,221,8,1,16.0
+Port of Immingham,Copenhagen Malmo Port,40.0,640.0,242,8,11,16.0
+Copenhagen Malmo Port,Port of Barcelona,156.0,2496.0,321,3,1,16.0
+Port of Barcelona,Port of Valletta,42.0,672.0,286,6,15,16.0
+Port of Valletta,Port of Baku,164.0,2624.0,280,6,28,16.0
+Port of Baku,Port of Sevastopol,95.0,1520.0,293,5,33,16.0
+Port of Sevastopol,Port of Piraeus,47.0,752.0,310,6,14,16.0
+Port of Piraeus,Port of Nikolaev,47.0,752.0,304,1,15,16.0
+Port of Nikolaev,Port of Venice,101.0,1616.0,216,4,27,16.0
+Port of Venice,Porto Marghera,1.0,16.0,229,8,0,16.0
+Porto Marghera,Port of Genoa,82.0,1312.0,348,1,2,16.0
+Port of Genoa,Port of Napoli,23.0,368.0,320,2,2,16.0
+Port of Napoli,Port of Hamburg,167.0,2672.0,218,6,22,16.0
+Port of Hamburg,Felixstowe Port,22.0,352.0,253,7,7,16.0
+Felixstowe Port,Port of Bremerhaven,19.0,304.0,201,8,6,16.0
+Port of Bremerhaven,Port of Leith,30.0,480.0,327,1,6,16.0
+Port of Leith,Port of Duisburg,33.0,528.0,279,5,8,16.0

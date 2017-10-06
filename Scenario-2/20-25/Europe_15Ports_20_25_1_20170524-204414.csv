@@ -1,0 +1,16 @@
+15
+M,TO,ti,di,ci,tip,xi,speed
+Klaipeda State Seaport,Port of Bremerhaven,31.0,496.0,250,3,1,16.0
+Port of Bremerhaven,Port of Leith,30.0,480.0,337,2,1,16.0
+Port of Leith,Scapa Flow,13.0,208.0,284,8,1,16.0
+Scapa Flow,Port of Immingham,22.0,352.0,254,2,1,16.0
+Port of Immingham,Felixstowe Port,9.0,144.0,357,2,0,16.0
+Felixstowe Port,Port of Amsterdam,9.0,144.0,305,7,1,16.0
+Port of Amsterdam,Port of Antwerp,8.0,128.0,356,3,1,16.0
+Port of Antwerp,Port of Barcelona,120.0,1920.0,238,3,17,16.0
+Port of Barcelona,Port of Piraeus,75.0,1200.0,379,5,5,16.0
+Port of Piraeus,Port of Baku,133.0,2128.0,198,8,14,16.0
+Port of Baku,Port of Brest,288.0,4608.0,194,1,38,16.0
+Port of Brest,Port of Southampton,15.0,240.0,300,8,0,16.0
+Port of Southampton,Port of Le Havre,10.0,160.0,289,1,1,16.0
+Port of Le Havre,Klaipeda State Seaport,58.0,928.0,265,2,3,16.0

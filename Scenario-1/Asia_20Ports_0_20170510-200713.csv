@@ -1,0 +1,21 @@
+20
+M,TO,ti,di,ci,tip,xi,speed
+Port of Niigata,Port of Keelung,87.08194444444445,1393.3111111111111,238,8,2,16.0
+Port of Keelung,Port of Huadu,32.37111111111111,517.9377777777778,210,6,9,16.0
+Port of Huadu,Hongkong International Terminals,1.3494444444444444,21.59111111111111,153,8,0,16.0
+Hongkong International Terminals,Port of Lianyungang,80.25805555555556,1284.128888888889,301,8,4,16.0
+Port of Lianyungang,Port of Incheon,24.935,398.96,234,4,0,16.0
+Port of Incheon,Port of Nampo,10.74472222222222,171.91555555555553,291,1,1,16.0
+Port of Nampo,Port of Kitakyushu,42.28083333333333,676.4933333333332,256,4,4,16.0
+Port of Kitakyushu,Port of Arkhangelsk,391.35444444444437,6261.671111111111,256,7,86,16.0
+Port of Arkhangelsk,Port of Kaliningrad,144.37111111111108,2309.9377777777772,286,4,16,16.0
+Port of Kaliningrad,Port of Beirut,261.2813888888889,4180.502222222222,365,4,75,16.0
+Port of Beirut,Dardanelles Strait,45.701944444444436,731.2311111111111,293,8,15,16.0
+Dardanelles Strait,Bosphorus (Istanbul) Strait,8.303611111111111,132.85777777777778,277,5,2,16.0
+Bosphorus (Istanbul) Strait,Port of Kolkata,351.2527777777778,5620.044444444445,198,4,32,16.0
+Port of Kolkata,Port of Paradip,12.540277777777774,200.6444444444444,277,3,3,16.0
+Port of Paradip,Port of Colombo,69.00361111111111,1104.0577777777778,201,4,14,16.0
+Port of Colombo,Imam  Khomeini  Port,146.86361111111108,2349.817777777778,124,3,29,16.0
+Imam  Khomeini  Port,Port Klang,233.615,3737.84,263,6,59,16.0
+Port Klang,Port of Hakata,182.13444444444443,2914.1511111111113,233,6,62,16.0
+Port of Hakata,Port of Niigata,33.05694444444444,528.911111111111,289,5,6,16.0

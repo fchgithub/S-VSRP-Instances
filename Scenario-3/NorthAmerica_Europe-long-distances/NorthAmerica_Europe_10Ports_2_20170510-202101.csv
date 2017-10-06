@@ -1,0 +1,11 @@
+10
+M,TO,ti,di,ci,tip,xi,speed
+Port of Barcelona,Port of Sevastopol,120.30861111111106,1924.937777777777,275,4,30,16.0
+Port of Sevastopol,Port of Rotterdam,229.0458333333333,3664.733333333333,285,1,12,16.0
+Port of Rotterdam,Klaipeda State Seaport,45.97972222222222,735.6755555555555,262,2,14,16.0
+Klaipeda State Seaport,Freeport of Riga,14.133888888888887,226.14222222222224,242,4,0,16.0
+Freeport of Riga,Port of San Francisco,566.9394444444445,9071.031111111111,233,7,75,16.0
+Port of San Francisco,Port of Houston,309.6802777777778,4954.884444444445,281,8,14,16.0
+Port of Houston,Port of Newport News,104.39888888888888,1670.382222222223,179,7,35,16.0
+Port of Newport News,Port of Elizabeth,19.726666666666667,315.62666666666667,183,5,6,16.0
+Port of Elizabeth,Port of Barcelona,237.19166666666663,3795.066666666666,266,3,23,16.0

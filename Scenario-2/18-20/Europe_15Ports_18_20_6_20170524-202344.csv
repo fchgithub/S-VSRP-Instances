@@ -1,0 +1,16 @@
+15
+M,TO,ti,di,ci,tip,xi,speed
+Port of Leith,Port of Le Havre,32.0,512.0,184,4,0,16.0
+Port of Le Havre,Port of Southampton,10.0,160.0,225,4,0,16.0
+Port of Southampton,Port of La Spezia,136.0,2176.0,275,5,8,16.0
+Port of La Spezia,Port of Livorno,2.0,32.0,260,2,0,16.0
+Port of Livorno,Port of Napoli,18.0,288.0,294,1,0,16.0
+Port of Napoli,Port of Venice,53.0,848.0,238,8,1,16.0
+Port of Venice,Porto Marghera,1.0,16.0,271,6,0,16.0
+Porto Marghera,Port of Sevastopol,96.0,1536.0,282,9,4,16.0
+Port of Sevastopol,Port of Baku,95.0,1520.0,328,3,6,16.0
+Port of Baku,Port of Hamburg,332.0,5312.0,274,6,4,16.0
+Port of Hamburg,Copenhagen Malmo Port,15.0,240.0,256,4,1,16.0
+Copenhagen Malmo Port,Port of Copenhagen,0.0,0.0,253,6,0,16.0
+Port of Copenhagen,Port of Lubeck,9.0,144.0,179,3,0,16.0
+Port of Lubeck,Port of Leith,46.0,736.0,273,6,3,16.0

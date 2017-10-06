@@ -1,0 +1,21 @@
+20
+M,TO,ti,di,ci,tip,xi,speed
+Port of Brest,Port of Leith,45.0,720.0,209,7,15,16.0
+Port of Leith,Port of Brussels,29.0,464.0,254,2,0,16.0
+Port of Brussels,Port of Amsterdam,10.0,160.0,261,5,0,16.0
+Port of Amsterdam,Port of London,14.0,224.0,229,2,3,16.0
+Port of London,Port of Rotterdam,11.0,176.0,227,7,3,16.0
+Port of Rotterdam,Port of Duisburg,8.0,128.0,188,1,2,16.0
+Port of Duisburg,Port of Lubeck,30.0,480.0,291,1,6,16.0
+Port of Lubeck,Port of Copenhagen,9.0,144.0,268,6,1,16.0
+Port of Copenhagen,Copenhagen Malmo Port,0.0,0.0,284,3,0,16.0
+Copenhagen Malmo Port,Port of Southampton,51.0,816.0,152,3,18,16.0
+Port of Southampton,Port of Le Havre,10.0,160.0,241,9,0,16.0
+Port of Le Havre,Port of La Spezia,135.0,2160.0,268,1,1,16.0
+Port of La Spezia,Port of Genoa,3.0,48.0,234,2,0,16.0
+Port of Genoa,Port of Livorno,5.0,80.0,209,7,0,16.0
+Port of Livorno,Port of Marseille,16.0,256.0,377,1,0,16.0
+Port of Marseille,Port of Napoli,40.0,640.0,257,5,10,16.0
+Port of Napoli,Port of Venice,53.0,848.0,202,7,12,16.0
+Port of Venice,Port of Piraeus,57.0,912.0,188,5,1,16.0
+Port of Piraeus,Port of Brest,157.0,2512.0,177,5,1,16.0

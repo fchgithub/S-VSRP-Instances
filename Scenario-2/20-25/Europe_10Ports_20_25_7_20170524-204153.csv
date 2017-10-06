@@ -1,0 +1,11 @@
+10
+M,TO,ti,di,ci,tip,xi,speed
+Port of Leith,Port of Duisburg,33.0,528.0,278,3,0,16.0
+Port of Duisburg,Port of Bremerhaven,20.0,320.0,280,6,3,16.0
+Port of Bremerhaven,Porto Marghera,209.0,3344.0,244,7,26,16.0
+Porto Marghera,Port of Venice,1.0,16.0,283,4,0,16.0
+Port of Venice,Port of Nikolaev,101.0,1616.0,239,7,15,16.0
+Port of Nikolaev,Port of Baku,107.0,1712.0,236,9,14,16.0
+Port of Baku,Port of Marseille,202.0,3232.0,145,2,27,16.0
+Port of Marseille,Port of Barcelona,12.0,192.0,239,3,1,16.0
+Port of Barcelona,Port of Leith,138.0,2208.0,230,5,19,16.0

@@ -1,0 +1,11 @@
+10
+M,TO,ti,di,ci,tip,xi,speed
+Klaipeda State Seaport,Port of Hamburg,31.0,496.0,304,3,2,16.0
+Port of Hamburg,Port of Bremerhaven,5.0,80.0,259,9,0,16.0
+Port of Bremerhaven,Port of Le Havre,28.0,448.0,253,5,1,16.0
+Port of Le Havre,Port of Barcelona,109.0,1744.0,185,3,7,16.0
+Port of Barcelona,Port of Marseille,12.0,192.0,247,3,1,16.0
+Port of Marseille,Port of Napoli,40.0,640.0,302,1,2,16.0
+Port of Napoli,Porto Marghera,53.0,848.0,222,9,1,16.0
+Porto Marghera,Port of Piraeus,57.0,912.0,206,2,4,16.0
+Port of Piraeus,Klaipeda State Seaport,227.0,3632.0,278,5,8,16.0
